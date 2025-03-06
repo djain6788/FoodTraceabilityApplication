@@ -4,3 +4,10 @@ Install Mongo locally - mac
 
 Initila requirement and Schema -
 https://docs.google.com/document/d/1FtOjYzGqaxZXd2dUaJiY61UypjnReGuxAosfR6pRhfw/edit?usp=sharing
+
+
+Build the web applciation - 
+mvn clean install
+
+Run the web application -
+mvn spring-boot:run
